@@ -1,4 +1,4 @@
-## Web Practical
+## Web Practical Exam
 
 Basic User Management System using laravel & vuejs.
 
