@@ -2170,7 +2170,7 @@ __webpack_require__.r(__webpack_exports__);
 
         _this2.clearForm(response);
       })["catch"](function (error) {
-        console.log(error);
+        _this2.allError = error.response.data.data;
       });
     },
     delUser: function delUser() {

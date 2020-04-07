@@ -235,7 +235,7 @@ export default {
 
             })
             .catch((error) => {
-                console.log(error)
+                this.allError = error.response.data.data;
             });
 
         },
