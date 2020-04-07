@@ -2233,6 +2233,7 @@ __webpack_require__.r(__webpack_exports__);
       this.showSaveBtn = false;
       this.showEditBtn = true;
       this.isReadOnly = true;
+      this.allError = true;
     }
   },
   mounted: function mounted() {

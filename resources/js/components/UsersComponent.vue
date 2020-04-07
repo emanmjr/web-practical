@@ -297,6 +297,7 @@ export default {
             this.showSaveBtn = false;
             this.showEditBtn = true;
             this.isReadOnly = true;
+            this.allError = true;
         }
     },
     mounted() {
