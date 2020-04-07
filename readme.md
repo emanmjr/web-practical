@@ -41,8 +41,8 @@ Run Locally:
 
 
 Default Admin Creds:
-    Username: admin@admin.com
-    Password: Password!123
+- Username: admin@admin.com
+- Password: Password!123
 
 
 
